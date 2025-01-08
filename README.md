@@ -12,7 +12,7 @@
 ## Summary
 
 <details open>
-    <summary><strong>Pentest Web</strong></summary>
+    <summary><strong>Pentest Web - based on OWASP WSTG</strong></summary>
         <ul>
             <li><a href="./Pentest/Web/4.1-Information-Gathering/4.1-Information-Gathering.md">4.1-Information-Gathering</a></li>
             <li><a href="/Pentest/Web/4.11-Client-side/4.11.9-Clickjacking.md">4.11.9-Clickjacking</a></li>
@@ -20,7 +20,7 @@
 </details>
 
 <details open>
-    <summary><strong>DevSecOps</strong></summary>
+    <summary><strong>DevSecOps - based on OWASP SAMM & DSOMM</strong></summary>
         <ul>
             <li><a href="./DevSecOps/Verification/Security-Testing/DAST/authenticated-dast-scan-owasp-zap.mp4">Authenticated DAST scan with OWASP ZAP</a></li>
         </ul>
