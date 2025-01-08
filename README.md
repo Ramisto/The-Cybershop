@@ -19,6 +19,13 @@
         </ul>
 </details>
 
+<details open>
+    <summary><strong>DevSecOps</strong></summary>
+        <ul>
+            <li><a href="./DevSecOps/Verification/Security-Testing/DAST/authenticated-dast-scan-owasp-zap.mp4">Authenticated DAST scan with OWASP ZAP</a></li>
+        </ul>
+</details>
+
 ## Contributing
 
 If you want to contribute, read the [CONTRIBUTING](/CONTRIBUTING.md) file to learn how to do so.
