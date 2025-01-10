@@ -16,7 +16,7 @@
         <ul>
             <li><a href="./Pentest/Web/4.1-Information-Gathering/4.1-Information-Gathering.md">4.1-Information-Gathering</a></li>
             <li><a href="./Pentest/Web/4.11-Client-Side/4.11.3-HTML-Injection.md">4.11.3-HTML-Injection</a></li>
-            <li><a href="/Pentest/Web/4.11-Client-side/4.11.9-Clickjacking.md">4.11.9-Clickjacking</a></li>
+            <li><a href="./Pentest/Web/4.11-Client-side/4.11.9-Clickjacking.md">4.11.9-Clickjacking</a></li>
         </ul>
 </details>
 
