@@ -23,9 +23,11 @@
 <details open>
     <summary><strong>DevSecOps (based on OWASP SAMM & DSOMM)</strong></summary>
         <ul>
-            <li><a href="./DevSecOps/Verification/Security-Testing/DAST/authenticated-dast-scan-owasp-zap.mp4">Authenticated DAST scan with OWASP ZAP</a></li>
-            <li><a href="./DevSecOps/Verification/Security-Testing/Secrets/Secrets-Scan.md">Secrets Scan in source code</a></li>
-            <li><a href="./DevSecOps/Verification/Security-Testing/Secrets/Clean-Git-History.md">Clean secrets in Git History</a></li>
+            <li><a href="./DevSecOps/Governance">Governance (TODO)</a></li>
+            <li><a href="./DevSecOps/Governance">Design (TODO)</a></li>
+            <li><a href="./DevSecOps/Governance">Implementation (TODO)</a></li>
+            <li><a href="./DevSecOps/Verification">Verification</a></li>
+            <li><a href="./DevSecOps/Governance">Operations (TODO)</a></li>
         </ul>
 </details>
 
