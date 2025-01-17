@@ -59,4 +59,17 @@ Here is our [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) for all contributors.
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Ramisto">
+                    <img src="https://avatars.githubusercontent.com/u/85512155?v=4" width="100;" alt="Ramisto"/>
+                    <br />
+                    <sub><b>Ramisto</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
