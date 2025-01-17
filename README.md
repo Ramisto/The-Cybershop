@@ -58,6 +58,5 @@ Here is our [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) for all contributors.
 
 ## Contributors
 
-<a href="https://github.com/Ramisto/The-Cybershop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ramisto/The-Cybershop" />
-</a>
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
