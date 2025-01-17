@@ -1,4 +1,4 @@
-# EXAMPLE
+# Title
 
 ## Description
 
