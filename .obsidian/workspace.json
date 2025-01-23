@@ -11,12 +11,14 @@
             "id": "2114e1084c14e535",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/security-testing/secrets/secrets-scan-2.png"
+                "file": "PENTEST/WEB/4.1-INFORMATION-GATHERING/test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "secrets-scan-2"
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ]
@@ -149,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,20 +169,24 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2114e1084c14e535",
   "lastOpenFiles": [
-    "assets/img/security-testing/secrets/secrets-scan-1.png",
+    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.9-Clickjacking.md",
+    "PENTEST/WEB/4.1-INFORMATION-GATHERING/test.md",
+    "PENTEST/WEB/4.1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
+    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.3-HTML-injection.md",
     "assets/img/security-testing/secrets/secrets-scan-2.png",
+    "assets/img/security-testing/secrets/secrets-scan-1.png",
     "assets/img/banner/TC-banner.png",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Clean-secrets-in-repo.md",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Secrets-scan.md",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/DAST/authenticated-dast-scan-owasp-zap.mp4",
-    "PENTEST/WEB/4.1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
-    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.9-Clickjacking.md",
-    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.3-HTML-injection.md",
     "TEMPLATE.md",
     "README.md",
     "CONTRIBUTING.md",
