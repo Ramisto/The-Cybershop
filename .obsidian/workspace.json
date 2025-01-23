@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "a11108340d7f906b",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e56ce5b90797c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2114e1084c14e535",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/img/security-testing/secrets/secrets-scan-2.png"
+              },
+              "icon": "lucide-image",
+              "title": "secrets-scan-2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ebabd935d0d0841",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8843c526bf9af38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a61d5f12987280a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "5b5d60714b22e04c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "8fbe8cc06b4908f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5
+  },
+  "right": {
+    "id": "68b8c681920d4060",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e59ad7dd841f66a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f158e2cee380464",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEVSECOPS/VERIFICATION/SECURITY-TESTING/Clean secrets in Github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Clean secrets in Github"
+            }
+          },
+          {
+            "id": "3f8cbd58c74aa2f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEVSECOPS/VERIFICATION/SECURITY-TESTING/Clean secrets in Github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Clean secrets in Github"
+            }
+          },
+          {
+            "id": "929708ee9ad0ecb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "e0a262c442da9363",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEVSECOPS/VERIFICATION/SECURITY-TESTING/Clean secrets in Github.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Clean secrets in Github"
+            }
+          },
+          {
+            "id": "b1104c2b79d1ff2f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2114e1084c14e535",
+  "lastOpenFiles": [
+    "assets/img/security-testing/secrets/secrets-scan-1.png",
+    "assets/img/security-testing/secrets/secrets-scan-2.png",
+    "assets/img/banner/TC-banner.png",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Clean-secrets-in-repo.md",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Secrets-scan.md",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/DAST/authenticated-dast-scan-owasp-zap.mp4",
+    "PENTEST/WEB/4.1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
+    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.9-Clickjacking.md",
+    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.3-HTML-injection.md",
+    "TEMPLATE.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/DAST",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING",
+    "DEVSECOPS/VERIFICATION",
+    "DEVSECOPS",
+    "PENTEST/WEB/4.11-CLIENT-SIDE",
+    "PENTEST/WEB/4.1-INFORMATION-GATHERING",
+    "PENTEST/WEB",
+    "PENTEST",
+    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/Clean secrets in Github.md",
+    "hello.md",
+    "Bienvenue.md",
+    "Untitled Kanban.md"
+  ]
+}
