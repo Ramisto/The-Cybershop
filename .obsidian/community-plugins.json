@@ -2,5 +2,6 @@
   "beautitab",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]
