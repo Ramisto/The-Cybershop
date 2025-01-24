@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATE.md",
+                "file": "PENTEST/WEB/4.1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMPLATE"
+              "title": "4.1-Information-Gathering"
             }
           }
         ]
@@ -175,10 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2114e1084c14e535",
+  "active": "5a61d5f12987280a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-23 21.28.32.excalidraw.md",
+    "PENTEST/SI/2.INFORMATION-GATHERING",
+    "PENTEST/SI/1.PRE-ENGAGEMENT",
+    "PENTEST/SI",
     "TEMPLATE.md",
+    "Excalidraw/Drawing 2025-01-23 21.28.32.excalidraw.md",
     "Excalidraw",
     "README.md",
     "CONTRIBUTING.md",
@@ -199,8 +202,6 @@
     "DEVSECOPS/VERIFICATION",
     "DEVSECOPS",
     "PENTEST/WEB/4.11-CLIENT-SIDE",
-    "PENTEST/WEB/4.1-INFORMATION-GATHERING",
-    "PENTEST/WEB",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/Clean secrets in Github.md",
     "hello.md",
     "Bienvenue.md",
