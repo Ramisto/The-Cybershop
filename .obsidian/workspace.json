@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PENTEST/WEB/4.1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
+                "file": "PENTEST/WEB/11-CLIENT-SIDE/11.9-Clickjacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1-Information-Gathering"
+              "title": "11.9-Clickjacking"
             }
           }
         ]
@@ -177,31 +177,30 @@
   },
   "active": "5a61d5f12987280a",
   "lastOpenFiles": [
+    "PENTEST/WEB/11-CLIENT-SIDE/11.3-HTML-injection.md",
+    "PENTEST/WEB/1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
+    "PENTEST/SI/9.PRACTICE",
+    "PENTEST/SI/8.POST-ENGAGEMENT",
+    "PENTEST/SI/7.PROOF-OF-CONCEPT",
+    "PENTEST/SI/6.LATERAL-MOVEMENT",
+    "PENTEST/SI/5.POST-EXPLOITATION",
+    "PENTEST/SI/4.EXPLOITATION",
+    "PENTEST/SI/3.VULNERABILITY-ASSESSMENT",
     "PENTEST/SI/2.INFORMATION-GATHERING",
     "PENTEST/SI/1.PRE-ENGAGEMENT",
     "PENTEST/SI",
     "TEMPLATE.md",
     "Excalidraw/Drawing 2025-01-23 21.28.32.excalidraw.md",
-    "Excalidraw",
     "README.md",
     "CONTRIBUTING.md",
     "CODE_OF_CONDUCT.md",
-    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.9-Clickjacking.md",
-    "PENTEST/WEB/4.11-CLIENT-SIDE/4.11.3-HTML-injection.md",
-    "PENTEST/WEB/4.1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
+    "PENTEST/WEB/11-CLIENT-SIDE/11.9-Clickjacking.md",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Secrets-scan.md",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Clean-secrets-in-repo.md",
-    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/DAST/authenticated-dast-scan-owasp-zap.mp4",
     "PENTEST/WEB/4.1-INFORMATION-GATHERING/test.md",
     "assets/img/security-testing/secrets/secrets-scan-2.png",
     "assets/img/security-testing/secrets/secrets-scan-1.png",
     "assets/img/banner/TC-banner.png",
-    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS",
-    "DEVSECOPS/VERIFICATION/SECURITY-TESTING/DAST",
-    "DEVSECOPS/VERIFICATION/SECURITY-TESTING",
-    "DEVSECOPS/VERIFICATION",
-    "DEVSECOPS",
-    "PENTEST/WEB/4.11-CLIENT-SIDE",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/Clean secrets in Github.md",
     "hello.md",
     "Bienvenue.md",
