@@ -22,6 +22,7 @@
     <summary><strong>Pentest Internal/External</strong></summary>
         <ul>
             <li><a href="./PENTEST/INTERNAL-EXTERNAL/0.PROCESS/">0.PROCESS</a></li>
+            <li><a href="./PENTEST/INTERNAL-EXTERNAL/2.INFORMATION-GATHERING/">2.INFORMATION GATHERING</a></li>
         </ul>
 </details>
 
