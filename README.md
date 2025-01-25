@@ -28,6 +28,18 @@
             <li><a href="./Pentest/Web/4.12-API">4.12 API (TODO)</a></li>
         </ul>
 </details>
+<details open>
+    <summary><strong>Pentest Internal/External</strong></summary>
+        <ul>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/0.PROCESS">0.PROCESS</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/1.PRE-ENGAGEMENT">1.PRE-ENGAGEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/2.INFORMATION-GATHERING">1.PRE-ENGAGEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/1.PRE-ENGAGEMENT">1.PRE-ENGAGEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/1.PRE-ENGAGEMENT">1.PRE-ENGAGEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/1.PRE-ENGAGEMENT">1.PRE-ENGAGEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/1.PRE-ENGAGEMENT">1.PRE-ENGAGEMENT</a></li>
+        </ul>
+</details>
 
 <details open>
     <summary><strong>DevSecOps (based on OWASP SAMM & DSOMM)</strong></summary>
