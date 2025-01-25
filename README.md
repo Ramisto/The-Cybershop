@@ -14,23 +14,14 @@
 <details open>
     <summary><strong>Pentest Web (based on OWASP WSTG)</strong></summary>
         <ul>
-            <li><a href="./PENTEST/WEB/1.INFORMATION-GATHERTING/4.1-Information-Gathering.md">1.INFORMATION-GATHERTING</a></li>
+            <li><a href="./PENTEST/WEB/1.INFORMATION-GATHERING/4.1-Information-Gathering.md">1.INFORMATION-GATHERTING</a></li>
             <li><a href="./PENTEST/WEB/11.CLIENT-SIDE/">11.CLIENT-SIDE</a></li>
         </ul>
 </details>
 <details open>
     <summary><strong>Pentest Internal/External</strong></summary>
         <ul>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/0.PROCESS">0.PROCESS</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/1.PRE-ENGAGEMENT">1.PRE-ENGAGEMENT</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/2.INFORMATION-GATHERING">2.INFORMATION-GATHERING</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/3.VULNERABILITY-ASSESSMENT">3.VULNERABILITY-ASSESSMENT</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/4.EXPLOITATION">4.EXPLOITATION</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/5.POST-EXPLOITATION">5.POST-EXPLOITATION</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/6.LATERAL-MOVEMENT">6.LATERAL-MOVEMENT</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/7.PROOF-OF-CONCEPT">7.PROOF-OF-CONCEPT</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/8.POST-ENGAGEMENT">8.POST-ENGAGEMENT</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/9.PRACTICE">9.PRACTICE</a></li>
+            <li><a href="./PENTEST/INTERNAL-EXTERNAL/0.PROCESS/">0.PROCESS</a></li>
         </ul>
 </details>
 
