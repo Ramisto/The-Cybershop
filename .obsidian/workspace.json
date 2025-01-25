@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.2 Mesures de précaution.md",
+                "file": "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.3 Type de prestation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.2 Mesures de précaution"
+              "title": "0.3 Type de prestation"
+            }
+          },
+          {
+            "id": "11ef9a67359800d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Schéma du process.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "0.1 Schéma du process"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,11 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2114e1084c14e535",
+  "active": "11ef9a67359800d9",
   "lastOpenFiles": [
-    "TEMPLATE.md",
+    "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.3 Type de prestation.md",
+    "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Schéma du process.md",
+    "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Schéma du process.md",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.2 Mesures de précaution.md",
-    "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Type de prestation.md",
+    "TEMPLATE.md",
     "PENTEST/WEB/11-CLIENT-SIDE/11.9-Clickjacking.md",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS",
     "PENTEST/WEB/11-CLIENT-SIDE/11.3-HTML-injection.md",
