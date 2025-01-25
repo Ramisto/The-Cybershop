@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.2 Precautionary measures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "0.2 Precautionary measures"
             }
           }
         ]
@@ -175,12 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a61d5f12987280a",
+  "active": "2114e1084c14e535",
   "lastOpenFiles": [
-    "CONTRIBUTING.md",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Pentest Process.md",
+    "README.md",
+    "CONTRIBUTING.md",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.3 Type de prestation.md",
-    "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.2 Mesures de précaution.md",
+    "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.2 Precautionary measures.md",
     "assets/img/PENTEST/INTERNAL-EXTERNAL/0.PROCESS/pentest-process.png",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Schéma du process.md",
     "assets/img/PENTEST/INTERNAL-EXTERNAL/0.PROCESS",
@@ -198,7 +199,6 @@
     "PENTEST/INTERNAL-EXTERNAL/6.LATERAL-MOVEMENT",
     "PENTEST/INTERNAL-EXTERNAL/5.POST-EXPLOITATION",
     "Excalidraw/Drawing 2025-01-23 21.28.32.excalidraw.md",
-    "README.md",
     "CODE_OF_CONDUCT.md",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Secrets-scan.md",
     "DEVSECOPS/VERIFICATION/SECURITY-TESTING/SECRETS/Clean-secrets-in-repo.md",

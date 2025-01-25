@@ -28,7 +28,7 @@
 <details open>
     <summary><strong>DevSecOps (based on OWASP SAMM & DSOMM)</strong></summary>
         <ul>
-            <li><a href="./DEVSECOPS/VERIFICATION">VERIFICATION</a></li>
+            <li><a href="./DEVSECOPS/VERIFICATION/SECURITY-TESTING/">VERIFICATION/SECURITY-TESTING</a></li>
         </ul>
 </details>
 
