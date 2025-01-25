@@ -5,7 +5,7 @@ When contributing to this repository, please first discuss the change you wish t
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 1. Install Obsidian software : [obsidian downaload](https://obsidian.md/download)
-2. Install git module for obsidian : 
+2. Install git module for obsidian : settings > add-ons > browse > git
 3. Create [an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue).
 4. Create [a branch](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-a-branch-for-an-issue) from your issue.
 5. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this project and make your changes in your new branch.
