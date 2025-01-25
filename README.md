@@ -37,19 +37,7 @@
 <details open>
     <summary><strong>DevSecOps (based on OWASP SAMM & DSOMM)</strong></summary>
         <ul>
-            <li><a href="./DevSecOps/Governance">Governance (TODO)</a></li>
-            <li><a href="./DevSecOps/Governance">Design (TODO)</a></li>
-            <li><a href="./DevSecOps/Governance">Implementation (TODO)</a></li>
-            <li><a href="./DevSecOps/Verification">Verification</a></li>
-            <li><a href="./DevSecOps/Governance">Operations (TODO)</a></li>
-        </ul>
-</details>
-
-<details open>
-    <summary><strong>Digital Forensic and Incident Response (DFIR)</strong></summary>
-        <ul>
-            <li><a href="./DFIR/DF/Collect-Information">Collect Information (TODO)</a></li>
-            <li><a href="./DFIR/DF/Windows">Windows Digital Forensic (TODO)</a></li>
+            <li><a href="./DEVSECOPS/VERIFICATION">VERIFICATION</a></li>
         </ul>
 </details>
 
