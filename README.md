@@ -14,18 +14,18 @@
 <details open>
     <summary><strong>Pentest Web (based on OWASP WSTG)</strong></summary>
         <ul>
-            <li><a href="./Pentest/Web/4.1-Information-Gathering/4.1-Information-Gathering.md">4.1 Information Gathering</a></li>
-            <li><a href="./Pentest/Web/4.2-Configuration-and-Deployment-Management">4.2 Configuration and Deployment Management (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.3-Identity-Management">4.3 Identity Management (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.4-Authentication">4.4 Authentication (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.5-Authorization">4.5 Authorization (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.6-Session-Management">4.6 Session Management (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.7-Input-Validation">4.7 Input Validation (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.8-Error-Handling">4.8 Error Handling (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.9">4.9 Weak Cryptography (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.10-Business-Logic">4.10 Business Logic (TODO)</a></li>
-            <li><a href="./Pentest/Web/4.11-Client-Side/">4.11. Client-side</a></li>
-            <li><a href="./Pentest/Web/4.12-API">4.12 API (TODO)</a></li>
+            <li><a href="./PENTEST/WEB/4.1-Information-Gathering/4.1-Information-Gathering.md">4.1 Information Gathering</a></li>
+            <li><a href="./PENTEST/WEB/4.2-Configuration-and-Deployment-Management">4.2 Configuration and Deployment Management (TODO)</a></li>
+            <li><a href="./PENTEST/WEB/4.3-Identity-Management">4.3 Identity Management (TODO)</a></li>
+            <li><a href="./PENTEST/WEB/4.4-Authentication">4.4 Authentication (TODO)</a></li>
+            <li><a href="./PENTEST/WEB/4.5-Authorization">4.5 Authorization (TODO)</a></li>
+            <li><a href="./PENTEST/WEB/4.6-Session-Management">4.6 Session Management (TODO)</a></li>
+            <li><a href="./PENTEST/WEB/4.7-Input-Validation">4.7 Input Validation (TODO)</a></li>
+            <li><a href="./PENTEST/Web/4.8-Error-Handling">4.8 Error Handling (TODO)</a></li>
+            <li><a href="./PENTEST/Web/4.9">4.9 Weak Cryptography (TODO)</a></li>
+            <li><a href="./PENTEST/Web/4.10-Business-Logic">4.10 Business Logic (TODO)</a></li>
+            <li><a href="./PENTEST/Web/4.11-Client-Side/">4.11. Client-side</a></li>
+            <li><a href="./PENTEST/Web/4.12-API">4.12 API (TODO)</a></li>
         </ul>
 </details>
 <details open>
@@ -38,7 +38,9 @@
             <li><a href="./PENTEST/INTERNAL/EXTERNAL/4.EXPLOITATION">4.EXPLOITATION</a></li>
             <li><a href="./PENTEST/INTERNAL/EXTERNAL/5.POST-EXPLOITATION">5.POST-EXPLOITATION</a></li>
             <li><a href="./PENTEST/INTERNAL/EXTERNAL/6.LATERAL-MOVEMENT">6.LATERAL-MOVEMENT</a></li>
-            <li><a href="./PENTEST/INTERNAL/EXTERNAL/7.PROOF-OF-CONCEPT">6.LATERAL-MOVEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/7.PROOF-OF-CONCEPT">7.PROOF-OF-CONCEPT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/8.POST-ENGAGEMENT">8.POST-ENGAGEMENT</a></li>
+            <li><a href="./PENTEST/INTERNAL/EXTERNAL/9.PRACTICE">9.PRACTICE</a></li>
         </ul>
 </details>
 
