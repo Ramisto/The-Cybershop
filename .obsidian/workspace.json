@@ -175,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2114e1084c14e535",
+  "active": "5a61d5f12987280a",
   "lastOpenFiles": [
     "CONTRIBUTING.md",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS/0.1 Pentest Process.md",
@@ -188,10 +188,10 @@
     "assets/img/PENTEST",
     "assets/img/Nouveau dossier",
     "TEMPLATE.md",
-    "PENTEST/WEB/11-CLIENT-SIDE/11.9-Clickjacking.md",
+    "PENTEST/WEB/11.CLIENT-SIDE/11.9-Clickjacking.md",
     "PENTEST/INTERNAL-EXTERNAL/0.PROCESS",
-    "PENTEST/WEB/11-CLIENT-SIDE/11.3-HTML-injection.md",
-    "PENTEST/WEB/1-INFORMATION-GATHERING/4.1-Information-Gathering.md",
+    "PENTEST/WEB/11.CLIENT-SIDE/11.3-HTML-injection.md",
+    "PENTEST/WEB/1.INFORMATION-GATHERING/4.1-Information-Gathering.md",
     "PENTEST/INTERNAL-EXTERNAL/9.PRACTICE",
     "PENTEST/INTERNAL-EXTERNAL/8.POST-ENGAGEMENT",
     "PENTEST/INTERNAL-EXTERNAL/7.PROOF-OF-CONCEPT",
