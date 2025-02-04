@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PENTEST/WEB/5.AUTHORIZATION/5.1-Path-traversal.md",
+                "file": "PENTEST/WEB/5.AUTHORIZATION/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1-Path-traversal"
+              "title": "Sans titre"
             }
           }
         ],
@@ -192,8 +192,9 @@
   },
   "active": "8ec5bd2f9ad495d3",
   "lastOpenFiles": [
-    "PENTEST/WEB/11.CLIENT-SIDE/11.3-HTML-injection.md",
     "PENTEST/WEB/5.AUTHORIZATION/5.1-Path-traversal.md",
+    "PENTEST/WEB/5.AUTHORIZATION/Sans titre.md",
+    "PENTEST/WEB/11.CLIENT-SIDE/11.3-HTML-injection.md",
     "PENTEST/INTERNAL-EXTERNAL/2.INFORMATION-GATHERING/2.1-Network-enumeration.md",
     "PENTEST/WEB/5.AUTHORIZATION",
     "PENTEST/INTERNAL-EXTERNAL/2.INFORMATION-GATHERING/2.2-Footpriting.md",
