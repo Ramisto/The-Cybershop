@@ -15,9 +15,11 @@
     <summary><strong>Pentest Web (based on OWASP WSTG)</strong></summary>
         <ul>
             <li><a href="./PENTEST/WEB/1.INFORMATION-GATHERING/4.1-Information-Gathering.md">1.INFORMATION-GATHERTING</a></li>
+            <li><a href="./PENTEST/WEB/5.AUTHORIZATION/">5.AUTHORIZATION</a></li>
             <li><a href="./PENTEST/WEB/11.CLIENT-SIDE/">11.CLIENT-SIDE</a></li>
         </ul>
 </details>
+
 <details open>
     <summary><strong>Pentest Internal/External</strong></summary>
         <ul>
