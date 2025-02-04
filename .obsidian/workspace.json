@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PENTEST/WEB/5.AUTHORIZATION/5.2-Bypassing-authorization-schema.md",
+                "file": "PENTEST/WEB/5.AUTHORIZATION/5.1-Path-traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2-Bypassing-authorization-schema"
+              "title": "5.1-Path-traversal"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "8ec5bd2f9ad495d3",
   "lastOpenFiles": [
-    "PENTEST/WEB/5.AUTHORIZATION/5.1-Path-traversal.md",
     "PENTEST/WEB/5.AUTHORIZATION/5.2-Bypassing-authorization-schema.md",
+    "PENTEST/WEB/5.AUTHORIZATION/5.1-Path-traversal.md",
     "README.md",
     "PENTEST/WEB/11.CLIENT-SIDE/11.3-HTML-injection.md",
     "PENTEST/WEB/11.CLIENT-SIDE/11.9-Clickjacking.md",
